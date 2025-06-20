@@ -1,0 +1,14 @@
+# Ignore data and build artifacts
+datasets/
+*.tgz
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code and Jupyter files
+.vscode/
+.env
+venv/
